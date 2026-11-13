@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Welcome to Web MCP Bridge</title>
+  <link rel="stylesheet" href="welcome.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Welcome to Web MCP Bridge</h1>
+      <p class="lead">Connect ChatGPT, Claude, Gemini and DeepSeek with your local tools (MCP). Just follow these steps; the wizard updates itself as you go.</p>
+    </header>
+
+    <ol class="steps">
+      <li id="step-launcher" class="step" data-state="current">
+        <span class="badge">1</span>
+        <div class="body">
+          <h2>Install the launcher <small id="launcher-status" class="status"></small></h2>
+          <p>The browser cannot start programs by itself. The launcher is a small process that you install <strong>once</strong>, starts with Windows and lets you start, stop and restart the bridge from this extension.</p>
+          <div id="launcher-help">
+            <ol class="how">
+              <li>Open the extension folder and go into <code>server</code>.</li>
+              <li>Double-click <code>install.cmd</code> and wait for it to say &ldquo;Done&rdquo;.</li>
+            </ol>
+            <p class="muted">Prefer the terminal? <code id="cmd-text">python server/install_service.py</code> <button id="copy-cmd" type="button" class="link">Copy</button></p>
+          </div>
+        </div>
+      </li>
+
+      <li id="step-bridge" class="step" data-state="pending">
+        <span class="badge">2</span>
+        <div class="body">
+          <h2>Start the bridge <small id="bridge-status" class="status"></small></h2>
+          <p>The bridge is the program that exposes your MCP servers. You can control it from here or from the extension icon.</p>
+          <div class="actions">
+            <button id="btn-start" type="button">Start</button>
+            <button id="btn-restart" type="button" class="soft">Restart</button>
+            <button id="btn-stop" type="button" class="soft">Stop</button>
+          </div>
+          <p id="bridge-msg" class="msg" hidden></p>
+        </div>
+      </li>
+
+      <li id="step-servers" class="step" data-state="pending">
+        <span class="badge">3</span>
+        <div class="body">
+          <h2>Your MCP servers <small id="servers-status" class="status"></small></h2>
+          <p>They are detected automatically from <code>server/servers.json</code>. Enable them (maximum 5) and choose their permissions from the extension icon.</p>
+          <ul id="server-list" class="servers"></ul>
+          <div class="actions"><button id="btn-config" type="button" class="soft">Edit servers.json</button></div>
+        </div>
+      </li>
+
+      <li id="step-ready" class="step" data-state="pending">
+        <span class="badge">4</span>
+        <div class="body">
+          <h2>Try it in your favorite chat</h2>
+          <p>Open one of these sites with the extension active and ask something that uses your tools.</p>
+          <div class="actions">
+            <a class="btn soft" href="https://chatgpt.com/" target="_blank" rel="noopener">ChatGPT</a>
+            <a class="btn soft" href="https://claude.ai/" target="_blank" rel="noopener">Claude</a>
+            <a class="btn soft" href="https://gemini.google.com/" target="_blank" rel="noopener">Gemini</a>
+            <a class="btn soft" href="https://chat.deepseek.com/" target="_blank" rel="noopener">DeepSeek</a>
+          </div>
+        </div>
+      </li>
+    </ol>
+  </main>
+  <script src="welcome.js"></script>
+</body>
+</html>

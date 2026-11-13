@@ -1,0 +1,249 @@
+01:35:37 INFO    server listening on 127.0.0.1:8080
+01:35:37 INFO    [astrax-mcp] disponible en ws://127.0.0.1:8080  ->  C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe -m astrax_mcp
+01:35:37 INFO    server listening on 127.0.0.1:8090
+01:35:37 INFO    [demo] disponible en ws://127.0.0.1:8090  ->  C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe C:\Users\hehe\Downloads\web-mcp-bridge-main\server\examples\demo_mcp_server.py
+01:35:37 INFO    Control en http://127.0.0.1:8099  (/health /servers /reload /shutdown)
+01:36:35 INFO    connection open
+01:36:35 INFO    [astrax-mcp] Cliente conectado -> pid 9536
+01:36:35 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:36:35 INFO    [astrax-mcp] Cliente desconectado
+01:36:35 INFO    connection closed
+01:36:36 INFO    connection open
+01:36:36 INFO    [astrax-mcp] Cliente conectado -> pid 21404
+01:36:36 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:36:36 INFO    [astrax-mcp] Cliente desconectado
+01:36:36 INFO    connection closed
+01:36:39 INFO    connection open
+01:36:39 INFO    [astrax-mcp] Cliente conectado -> pid 23860
+01:36:39 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:36:39 INFO    [astrax-mcp] Cliente desconectado
+01:36:39 INFO    connection closed
+01:36:43 INFO    connection open
+01:36:43 INFO    [astrax-mcp] Cliente conectado -> pid 2812
+01:36:43 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:36:43 INFO    [astrax-mcp] Cliente desconectado
+01:36:43 INFO    connection closed
+01:36:51 INFO    connection open
+01:36:51 INFO    [astrax-mcp] Cliente conectado -> pid 25424
+01:36:51 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:36:51 INFO    [astrax-mcp] Cliente desconectado
+01:36:51 INFO    connection closed
+01:37:07 INFO    connection open
+01:37:07 INFO    [astrax-mcp] Cliente conectado -> pid 23608
+01:37:07 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:37:07 INFO    [astrax-mcp] Cliente desconectado
+01:37:07 INFO    connection closed
+01:37:37 INFO    connection open
+01:37:37 INFO    [astrax-mcp] Cliente conectado -> pid 22116
+01:37:37 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:37:37 INFO    [astrax-mcp] Cliente desconectado
+01:37:37 INFO    connection closed
+01:38:07 INFO    connection open
+01:38:07 INFO    [astrax-mcp] Cliente conectado -> pid 24728
+01:38:07 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:38:07 INFO    [astrax-mcp] Cliente desconectado
+01:38:07 INFO    connection closed
+01:38:38 INFO    connection open
+01:38:38 INFO    [astrax-mcp] Cliente conectado -> pid 22700
+01:38:38 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:38:38 INFO    [astrax-mcp] Cliente desconectado
+01:38:38 INFO    connection closed
+01:39:08 INFO    connection open
+01:39:08 INFO    [astrax-mcp] Cliente conectado -> pid 23052
+01:39:08 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:39:08 INFO    [astrax-mcp] Cliente desconectado
+01:39:08 INFO    connection closed
+01:39:38 INFO    connection open
+01:39:38 INFO    [astrax-mcp] Cliente conectado -> pid 18220
+01:39:38 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:39:38 INFO    [astrax-mcp] Cliente desconectado
+01:39:38 INFO    connection closed
+01:40:08 INFO    connection open
+01:40:09 INFO    [astrax-mcp] Cliente conectado -> pid 17756
+01:40:09 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:40:09 INFO    [astrax-mcp] Cliente desconectado
+01:40:09 INFO    connection closed
+01:40:39 INFO    connection open
+01:40:39 INFO    [astrax-mcp] Cliente conectado -> pid 22852
+01:40:39 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:40:39 INFO    [astrax-mcp] Cliente desconectado
+01:40:39 INFO    connection closed
+01:41:09 INFO    connection open
+01:41:09 INFO    [astrax-mcp] Cliente conectado -> pid 25296
+01:41:09 INFO    [astrax-mcp] C:\Users\hehe\AppData\Local\Programs\Python\Python315\python.exe: No module named astrax_mcp
+01:41:09 INFO    [astrax-mcp] Cliente desconectado
+01:41:09 INFO    connection closed
+01:41:26 INFO    server closing
+01:41:26 INFO    server closed
+01:41:26 INFO    [astrax-mcp] detenido
+01:41:26 INFO    server closing
+01:41:26 INFO    server closed
+01:41:26 INFO    [demo] detenido
+01:41:26 INFO    server listening on 127.0.0.1:8091
+01:41:26 INFO    [matcha] disponible en ws://127.0.0.1:8091  ->  npx -y mcp-remote http://127.0.0.1:8765/mcp
+01:41:26 INFO    server listening on 127.0.0.1:8090
+01:41:26 INFO    [demo] disponible en ws://127.0.0.1:8090  ->  python C:\Users\hehe\Downloads\web-mcp-bridge-main\server\examples\demo_mcp_server.py
+01:41:26 INFO    servers.json recargado: {'started': ['matcha'], 'stopped': ['astrax-mcp'], 'restarted': ['demo']}
+01:41:34 INFO    connection open
+01:41:34 INFO    [matcha] Cliente conectado -> pid 3176
+01:41:36 INFO    [matcha] [11152] Using callback port derived from the server URL: 21485
+01:41:36 INFO    [matcha] [11152] Discovering OAuth server configuration...
+01:41:36 INFO    [matcha] [11152] [11152] Connecting to remote server: http://127.0.0.1:8765/mcp
+01:41:36 INFO    [matcha] [11152] Using transport strategy: http-first
+01:41:36 INFO    [matcha] [11152] Connected to remote server using StreamableHTTPClientTransport
+01:41:36 INFO    [matcha] [11152] Local STDIO server running
+01:41:36 INFO    [matcha] [11152] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+01:41:36 INFO    [matcha] [11152] Press Ctrl+C to exit
+01:41:36 INFO    [matcha] [11152] [Local→Remote] initialize
+01:41:36 INFO    [matcha] [11152] {
+01:41:36 INFO    [matcha]   "jsonrpc": "2.0",
+01:41:36 INFO    [matcha]   "id": 1,
+01:41:36 INFO    [matcha]   "method": "initialize",
+01:41:36 INFO    [matcha]   "params": {
+01:41:36 INFO    [matcha]     "protocolVersion": "2025-03-26",
+01:41:36 INFO    [matcha]     "capabilities": {},
+01:41:36 INFO    [matcha]     "clientInfo": {
+01:41:36 INFO    [matcha]       "name": "web-mcp-bridge (via mcp-remote 0.16.6)",
+01:41:36 INFO    [matcha]       "version": "1.6.0"
+01:41:36 INFO    [matcha]     }
+01:41:36 INFO    [matcha]   }
+01:41:36 INFO    [matcha] }
+01:41:36 INFO    [matcha] [11152] [Remote→Local] 1
+01:41:36 INFO    [matcha] [11152] [Local→Remote] notifications/initialized
+01:41:36 INFO    [matcha] [11152] [Local→Remote] tools/list
+01:41:36 INFO    [matcha] [11152] [Remote→Local] 2
+01:41:37 INFO    connection closed
+01:41:38 INFO    [matcha] Cliente desconectado
+01:42:52 INFO    connection open
+01:42:52 INFO    [demo] Cliente conectado -> pid 8324
+01:42:56 INFO    connection closed
+01:42:56 INFO    [demo] Cliente desconectado
+01:42:58 INFO    connection open
+01:42:58 INFO    [demo] Cliente conectado -> pid 16948
+01:42:59 INFO    connection closed
+01:42:59 INFO    [demo] Cliente desconectado
+01:44:23 INFO    connection open
+01:44:23 INFO    [matcha] Cliente conectado -> pid 2100
+01:44:23 INFO    [matcha] [6784] Using callback port derived from the server URL: 21485
+01:44:23 INFO    [matcha] [6784] Discovering OAuth server configuration...
+01:44:23 INFO    [matcha] [6784] [6784] Connecting to remote server: http://127.0.0.1:8765/mcp
+01:44:23 INFO    [matcha] [6784] Using transport strategy: http-first
+01:44:24 INFO    [matcha] [6784] Connected to remote server using StreamableHTTPClientTransport
+01:44:24 INFO    [matcha] [6784] Local STDIO server running
+01:44:24 INFO    [matcha] [6784] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+01:44:24 INFO    [matcha] [6784] Press Ctrl+C to exit
+01:44:24 INFO    [matcha] [6784] [Local→Remote] initialize
+01:44:24 INFO    [matcha] [6784] {
+01:44:24 INFO    [matcha]   "jsonrpc": "2.0",
+01:44:24 INFO    [matcha]   "id": 1,
+01:44:24 INFO    [matcha]   "method": "initialize",
+01:44:24 INFO    [matcha]   "params": {
+01:44:24 INFO    [matcha]     "protocolVersion": "2025-03-26",
+01:44:24 INFO    [matcha]     "capabilities": {},
+01:44:24 INFO    [matcha]     "clientInfo": {
+01:44:24 INFO    [matcha]       "name": "web-mcp-bridge (via mcp-remote 0.16.6)",
+01:44:24 INFO    [matcha]       "version": "1.6.0"
+01:44:24 INFO    [matcha]     }
+01:44:24 INFO    [matcha]   }
+01:44:24 INFO    [matcha] }
+01:44:24 INFO    [matcha] [6784] [Remote→Local] 1
+01:44:24 INFO    [matcha] [6784] [Local→Remote] notifications/initialized
+01:44:24 INFO    [matcha] [6784] [Local→Remote] tools/list
+01:44:24 INFO    [matcha] [6784] [Remote→Local] 2
+01:52:08 INFO    [matcha] [6784] [Local→Remote] tools/call
+01:52:09 INFO    [matcha] [6784] [Remote→Local] 26
+02:00:40 INFO    Apagado solicitado por el puerto de control
+02:00:40 INFO    server closing
+02:00:40 INFO    connection closed
+02:00:40 INFO    [matcha] Cliente desconectado
+02:00:40 INFO    server closed
+02:00:40 INFO    [matcha] detenido
+02:00:40 INFO    server closing
+02:00:40 INFO    server closed
+02:00:40 INFO    [demo] detenido
+02:05:29 INFO    server listening on 127.0.0.1:8091
+02:05:29 INFO    [matcha] disponible en ws://127.0.0.1:8091  ->  npx -y mcp-remote http://127.0.0.1:8765/mcp
+02:05:29 INFO    server listening on 127.0.0.1:8090
+02:05:29 INFO    [demo] disponible en ws://127.0.0.1:8090  ->  python C:\Users\hehe\Downloads\web-mcp-bridge-main\server\examples\demo_mcp_server.py
+02:05:29 INFO    Control en http://127.0.0.1:8099  (/health /servers /reload /shutdown)
+02:05:58 INFO    connection open
+02:05:58 INFO    [matcha] Cliente conectado -> pid 7484
+02:05:59 INFO    [matcha] [19072] Using callback port derived from the server URL: 21485
+02:05:59 INFO    [matcha] [19072] Discovering OAuth server configuration...
+02:05:59 INFO    [matcha] [19072] [19072] Connecting to remote server: http://127.0.0.1:8765/mcp
+02:05:59 INFO    [matcha] [19072] Using transport strategy: http-first
+02:05:59 INFO    [matcha] [19072] Connected to remote server using StreamableHTTPClientTransport
+02:05:59 INFO    [matcha] [19072] Local STDIO server running
+02:05:59 INFO    [matcha] [19072] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+02:05:59 INFO    [matcha] [19072] Press Ctrl+C to exit
+02:05:59 INFO    [matcha] [19072] [Local→Remote] initialize
+02:05:59 INFO    [matcha] [19072] {
+02:05:59 INFO    [matcha]   "jsonrpc": "2.0",
+02:05:59 INFO    [matcha]   "id": 1,
+02:05:59 INFO    [matcha]   "method": "initialize",
+02:05:59 INFO    [matcha]   "params": {
+02:05:59 INFO    [matcha]     "protocolVersion": "2025-03-26",
+02:05:59 INFO    [matcha]     "capabilities": {},
+02:05:59 INFO    [matcha]     "clientInfo": {
+02:05:59 INFO    [matcha]       "name": "web-mcp-bridge (via mcp-remote 0.16.6)",
+02:05:59 INFO    [matcha]       "version": "1.6.0"
+02:05:59 INFO    [matcha]     }
+02:05:59 INFO    [matcha]   }
+02:05:59 INFO    [matcha] }
+02:05:59 INFO    [matcha] [19072] [Remote→Local] 1
+02:05:59 INFO    [matcha] [19072] [Local→Remote] notifications/initialized
+02:05:59 INFO    [matcha] [19072] [Local→Remote] tools/list
+02:05:59 INFO    [matcha] [19072] [Remote→Local] 2
+02:08:16 INFO    Reinicio solicitado por el puerto de control
+02:08:16 INFO    server closing
+02:08:16 INFO    connection closed
+02:08:16 INFO    [matcha] Cliente desconectado
+02:08:16 INFO    server closed
+02:08:16 INFO    [matcha] detenido
+02:08:16 INFO    server closing
+02:08:16 INFO    server closed
+02:08:16 INFO    [demo] detenido
+02:08:16 INFO    Reinicio: el supervisor (start_bridge_loop) levantara el puente de nuevo.
+02:08:41 INFO    server listening on 127.0.0.1:8091
+02:08:41 INFO    [matcha] disponible en ws://127.0.0.1:8091  ->  npx -y mcp-remote http://127.0.0.1:8765/mcp
+02:08:41 INFO    server listening on 127.0.0.1:8090
+02:08:41 INFO    [demo] disponible en ws://127.0.0.1:8090  ->  python C:\Users\hehe\Downloads\web-mcp-bridge-main\server\examples\demo_mcp_server.py
+02:08:41 INFO    Control en http://127.0.0.1:8099  (/health /servers /reload /shutdown)
+02:08:42 INFO    connection open
+02:08:42 INFO    [matcha] Cliente conectado -> pid 13324
+02:08:43 INFO    [matcha] [20944] Using callback port derived from the server URL: 21485
+02:08:43 INFO    [matcha] [20944] Discovering OAuth server configuration...
+02:08:43 INFO    [matcha] [20944] [20944] Connecting to remote server: http://127.0.0.1:8765/mcp
+02:08:43 INFO    [matcha] [20944] Using transport strategy: http-first
+02:08:43 INFO    [matcha] [20944] Connected to remote server using StreamableHTTPClientTransport
+02:08:43 INFO    [matcha] [20944] Local STDIO server running
+02:08:43 INFO    [matcha] [20944] Proxy established successfully between local STDIO and remote StreamableHTTPClientTransport
+02:08:43 INFO    [matcha] [20944] Press Ctrl+C to exit
+02:08:43 INFO    [matcha] [20944] [Local→Remote] initialize
+02:08:43 INFO    [matcha] [20944] {
+02:08:43 INFO    [matcha]   "jsonrpc": "2.0",
+02:08:43 INFO    [matcha]   "id": 9,
+02:08:43 INFO    [matcha]   "method": "initialize",
+02:08:43 INFO    [matcha]   "params": {
+02:08:43 INFO    [matcha]     "protocolVersion": "2025-03-26",
+02:08:43 INFO    [matcha]     "capabilities": {},
+02:08:43 INFO    [matcha]     "clientInfo": {
+02:08:43 INFO    [matcha]       "name": "web-mcp-bridge (via mcp-remote 0.16.6)",
+02:08:43 INFO    [matcha]       "version": "1.6.0"
+02:08:43 INFO    [matcha]     }
+02:08:43 INFO    [matcha]   }
+02:08:43 INFO    [matcha] }
+02:08:43 INFO    [matcha] [20944] [Remote→Local] 9
+02:08:43 INFO    [matcha] [20944] [Local→Remote] notifications/initialized
+02:08:43 INFO    [matcha] [20944] [Local→Remote] tools/list
+02:08:43 INFO    [matcha] [20944] [Remote→Local] 10
+02:08:51 INFO    Reinicio solicitado por el puerto de control
+02:08:51 INFO    server closing
+02:08:51 INFO    connection closed
+02:08:51 INFO    [matcha] Cliente desconectado
+02:08:51 INFO    server closed
+02:08:51 INFO    [matcha] detenido
+02:08:51 INFO    server closing
+02:08:51 INFO    server closed
+02:08:51 INFO    [demo] detenido
+02:08:51 INFO    Reinicio: el supervisor (start_bridge_loop) levantara el puente de nuevo.

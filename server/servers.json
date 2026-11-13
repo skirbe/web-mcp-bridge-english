@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "matcha",
+      "port": 8091,
+      "command": ["npx", "-y", "mcp-remote", "http://127.0.0.1:8765/mcp"]
+    },
+    {
+      "name": "demo",
+      "port": 8090,
+      "command": ["python", "server/examples/demo_mcp_server.py"]
+    }
+  ]
+}
